@@ -8,3 +8,6 @@ Click here to learn more → [About Me](about.md)
 
 ## Notebook
 Click here to go to my notebook → [Notebook](notebook.md)
+
+## FirstArray
+Click here to go to my Array code → [FirstArray](FirstArray.md)
